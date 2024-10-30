@@ -12,10 +12,12 @@ Gain insights on how to apply Krishna’s wisdom in their daily lives.
 Explore various philosophical aspects of the Bhagavad Gita.
 Receive personalized spiritual advice on issues like work-life balance, inner peace, decision-making, and more.
 Features
+
 **Natural Language Understanding:** Krishna's Wisdom can understand and process user queries in a conversational style and respond with relevant teachings or advice.
 **Spiritual Guidance:** It provides insights from the Bhagavad Gita and related scriptures, tailored to the user’s context.
 **User Interaction:** The chatbot can engage users in meaningful dialogues, making the spiritual content accessible and easy to comprehend.
 Expandable Knowledge Base: The bot's knowledge can be expanded to include more teachings or content from other scriptures.
+
 **How to Use**
 
 **Clone the Repository:**
